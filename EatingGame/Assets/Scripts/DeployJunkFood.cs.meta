@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eadaa3655e9031e4583af96bdcd7c363
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - burgerPrefab: {instanceID: 0}
+  - donutPrefab: {instanceID: 0}
+  - friesPrefab: {instanceID: 0}
+  - doritosPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

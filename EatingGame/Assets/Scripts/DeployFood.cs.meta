@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b84a54ae19354d445988a22f3904c0a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - applePrefab: {instanceID: 0}
+  - bananaPrefab: {instanceID: 0}
+  - eggPrefab: {instanceID: 0}
+  - strawberryPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
